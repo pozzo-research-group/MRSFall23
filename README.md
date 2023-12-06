@@ -12,4 +12,6 @@ Data and code are provided for educational purposes only. If you use any of the 
 
 `fpca.ipynb` contains the code related to functional PCA examples on UV-Vis spectroscopy.
 
-`functional_clustering`.ipynb` contains code related to functional clustering example on UV-Vis spectra and synthetic Gaussian peaks example.
+`functional_clustering_*.ipynb` contains code related to functional clustering examples on UV-Vis spectra and synthetic Gaussian peaks examples.
+
+All the notebooks are setup to be run using Google colab.
