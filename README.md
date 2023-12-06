@@ -10,8 +10,6 @@ Data and code are provided for educational purposes only. If you use any of the 
 > DOI: 10.1039/D2DD00025C (Paper) Digital Discovery, 2022, 1, 502-510 and 
 > DOI: 10.1039/D3DD00105A (Paper) Digital Discovery, 2023, 2, 1471-1483
 
-`fpca.ipynb` contains the code related to functional PCA examples on UV-Vis spectroscopy.
+`fpca.ipynb` contains the code related to functional PCA examples on UV-Vis spectroscopy. This can be run using the Google colab.
 
-`functional_clustering_*.ipynb` contains code related to functional clustering examples on UV-Vis spectra and synthetic Gaussian peaks examples.
-
-All the notebooks are setup to be run using Google colab.
+`functional_clustering_*.ipynb` contains code related to functional clustering examples on UV-Vis spectra and synthetic Gaussian peaks examples. To run these two notebooks, create a conda environment by following the instructions [here](https://github.com/pozzo-research-group/papers/blob/main/autophasemap/INSTALL.md)](https://github.com/pozzo-research-group/papers/blob/main/autophasemap/INSTALL.md).
